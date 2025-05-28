@@ -1,1 +1,1 @@
-# medical_chat_bot_Gen_AI
+# Medical-Chat-Bot-Gen-AI
