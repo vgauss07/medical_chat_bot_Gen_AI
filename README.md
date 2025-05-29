@@ -48,5 +48,6 @@ Flask
 git clone  https://github.com/vgauss07/medical_chat_bot_Gen_AI.git
 ```
 cd medical-chatbot
+
 pip install -r requirements.txt
 
