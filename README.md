@@ -51,3 +51,7 @@ cd medical-chatbot
 
 pip install -r requirements.txt
 
+# ⚠️ Disclaimers
+⚠️ Not a substitute for professional medical advice.
+
+This chatbot is for informational and educational purposes only. Always consult a licensed healthcare provider for medical guidance or emergencies.
