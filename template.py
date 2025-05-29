@@ -9,12 +9,17 @@ list_of_files = [
     "src/__init__.py",
     "src/helper.py",
     "src/prompt.py",
+    "store_index.py",
+    "template/index.html",
+    "static/style.css",
     ".env",
     "requirements.txt",
     "setup.py",
     "app.py",
     "test.py",
-    "research/experiment.ipynb"
+    "research/experiment.ipynb",
+    "research/test.ipynb",
+    "data/data.txt"
 ]
 
 for filepath in list_of_files:
